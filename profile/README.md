@@ -30,7 +30,7 @@ More details about the group's research and resources can be found at this [IDSL
 
 ## Contribution guidelines:
 Most of our software are written in the R programming language. For online tools, we are using the ReactJS framework. Submit your request to contribute to IDSL.ME codebase to dinesh.kumar@mssm.edu . Significant contributions will be credited with authorship in future manuscripts.  
-For US persons, [Mount Sinai Volunteer Research Program] (https://www.mountsinai.org/locations/mount-sinai/about/volunteer/student-research) can be interesting. 
+For US persons, [Mount Sinai Volunteer Research Program](https://www.mountsinai.org/locations/mount-sinai/about/volunteer/student-research) can be interesting. 
 
 
 
