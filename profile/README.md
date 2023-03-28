@@ -4,7 +4,7 @@ Exposome is the totality of all exposures that we encounter during our life. Che
 IDSL.ME team develops software, databases and novel approaches to analyze and interpret metabolomics and exposomics datasets in population-scale studies.
 More details about the group's research and resources can be found at this [IDSL.ME](https://www.idsl.me/). The group is part of the Department of Environmental Medicine and Public Health, [EMPH](https://icahn.mssm.edu/about/departments/environmental-public-health) and the [Institute of Exposomics Research](https://mountsinaiexposomics.org/) at the Icahn School of Medicine at Mount Sinai, [ISMMS](https://icahn.mssm.edu/), New York, USA. 
 
-## Principal Investigator: [Dinesh Barupal](https://profiles.mountsinai.org/dinesh-barupal)
+### Principal Investigator: [Dinesh Barupal](https://profiles.mountsinai.org/dinesh-barupal)
 
 ## Key resources: 
 
