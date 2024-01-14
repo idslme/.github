@@ -14,6 +14,7 @@ More details about the group's research and resources can be found at this [IDSL
 * [IDSL.UFA](https://github.com/idslme/IDSL.UFA) : To annotate MS1 level data will molecular formula using isotope profile similarity
 * [IDSL.CSA](https://github.com/idslme/IDSL.CSA) : To annotate peaks using a compositie spectra created using MS1 only data
 * [IDSL.FSA](https://github.com/idslme/IDSL.FSA) : To annotate peaks using fragmentation data generated using DIA and DDA methods
+* [IDSL_MINT](https://github.com/idslme/IDSL_MINT) : A python workflow for training transformer models to predict molecular fingerprints from a MS/MS spectra
 
 ### Metabolic Bioinformatics: 
 * [IDSL.GOA](https://goa.idsl.site/) : query the Gene Ontology Database for a multi-omics data interpretation
