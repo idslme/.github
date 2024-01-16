@@ -19,16 +19,26 @@ More details about the group's research and resources can be found at this [IDSL
 ### Metabolic Bioinformatics: 
 * [IDSL.GOA](https://goa.idsl.site/) : query the Gene Ontology Database for a multi-omics data interpretation
 * [ChemRICH](https://github.com/idslme/ChemRICH) : Metabolite set analysis that is independent of a background database
-* [MetaMapp](#) : Metabolic network mapping using atomic mapping of reactions and chemical similarity
-* [NCBI Query Tool](https://nqt.idsl.site/) : A new interface to interct with NCBI APIs
+* [MetaMapp](https://github.com/barupal/MetaMapp) : Metabolic network mapping using atomic mapping of reactions and chemical similarity
 
 ### Databases:
 * [CCDB](https://ccdb.idsl.me/) : a database of inter-chemical correlations
-* [SpecDB](https://specdb.idsl.me/) : Simplified tool to query publicly available mass spectra libraries
 * [Blood Exposome DB](https://bloodexposome.org/) : A text mining driven catalogue of chemicals found in a blood sample
 * [Cancer Hazard Prioratization](https://cancer.idsl.me/) : To prioratize cancer hazards for IARC Monographs programme
 * [PubMed-FT](https://pubmed.idsl.site/) : NLP guided queries of PubMed abstracts
 * [PMC-FT](https://pmc.idsl.me/) : NLP guided queries of full text data in the PMC database
+
+## Key Publications
+
+* IDSL.GOA: gene ontology analysis for interpreting metabolomic datasets. Mahajan P, Fiehn O, Barupal D. Sci Rep. 2024 Jan 14;14(1):1299. doi: 10.1038/s41598-024-51992-x.
+* IDSL.CSA: Composite Spectra Analysis for Chemical Annotation of Untargeted Metabolomics Datasets, Baygi SF, Kumar Y, Barupal DK. Anal Chem. 2023 Jun 27;95(25):9480-9487. doi: 10.1021/acs.analchem.3c00376. Epub 2023 Jun 13.
+* IDSL.UFA Assigns High-Confidence Molecular Formula Annotations for Untargeted LC/HRMS Data Sets in Metabolomics and Exposomics. Baygi SF, Banerjee SK, Chakraborty P, Kumar Y, Barupal DK. Anal Chem. 2022 Oct 4;94(39):13315-13322. doi: 10.1021/acs.analchem.2c00563. Epub 2022 Sep 22.
+* IDSL.IPA Characterizes the Organic Chemical Space in Untargeted LC/HRMS Data Sets. Fakouri Baygi S, Kumar Y, Barupal DK. J Proteome Res. 2022 Jun 3;21(6):1485-1494. doi: 10.1021/acs.jproteome.2c00120
+* CCDB: A database for exploring inter-chemical correlations in metabolomics and exposomics datasets. Barupal DK, Mahajan P, Fakouri-Baygi S, Wright RO, Arora M, Teitelbaum SL. Environ Int. 2022 Jun;164:107240. doi: 10.1016/j.envint.2022.107240. Epub 2022 Apr 18.
+* Prioritizing cancer hazard assessments for IARC Monographs using an integrated approach of database fusion and text mining. Barupal DK, Schubauer-Berigan MK, Korenjak M, Zavadil J, Guyton KZ. Environ Int. 2021 Nov;156:106624. doi: 10.1016/j.envint.2021.106624. Epub 2021 May 10.
+* Generating the Blood Exposome Database Using a Comprehensive Text Mining and Database Fusion Approach. Barupal DK, Fiehn O. Environ Health Perspect. 2019 Sep;127(9):97008. doi: 10.1289/EHP4713. Epub 2019 Sep 26.
+* Chemical Similarity Enrichment Analysis (ChemRICH) as alternative to biochemical pathway mapping for metabolomic datasets. Barupal DK, Fiehn O. Sci Rep. 2017 Nov 6;7(1):14567. doi: 10.1038/s41598-017-15231-w.
+* MetaMapp: mapping and visualizing metabolomic data by integrating information from biochemical pathways and chemical and mass spectral similarity. Barupal DK, Haldiya PK, Wohlgemuth G, Kind T, Kothari SL, Pinkerton KE, Fiehn O.  BMC Bioinformatics. 2012 May 16;13:99. doi: 10.1186/1471-2105-13-99.
 
 
 ## Contribution guidelines:
