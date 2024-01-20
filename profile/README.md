@@ -30,6 +30,7 @@ More details about the group's research and resources can be found at this [IDSL
 
 ## Key Publications
 
+* IDSL_MINT: a deep learning framework to predict molecular fingerprints from mass spectra. Baygi SF, Barupal DK. J Cheminform. 2024 Jan 18;16(1):8. doi: 10.1186/s13321-024-00804-5. PMID: 38238779
 * IDSL.GOA: gene ontology analysis for interpreting metabolomic datasets. Mahajan P, Fiehn O, Barupal D. Sci Rep. 2024 Jan 14;14(1):1299. doi: 10.1038/s41598-024-51992-x.
 * IDSL.CSA: Composite Spectra Analysis for Chemical Annotation of Untargeted Metabolomics Datasets, Baygi SF, Kumar Y, Barupal DK. Anal Chem. 2023 Jun 27;95(25):9480-9487. doi: 10.1021/acs.analchem.3c00376. Epub 2023 Jun 13.
 * IDSL.UFA Assigns High-Confidence Molecular Formula Annotations for Untargeted LC/HRMS Data Sets in Metabolomics and Exposomics. Baygi SF, Banerjee SK, Chakraborty P, Kumar Y, Barupal DK. Anal Chem. 2022 Oct 4;94(39):13315-13322. doi: 10.1021/acs.analchem.2c00563. Epub 2022 Sep 22.
@@ -41,12 +42,14 @@ More details about the group's research and resources can be found at this [IDSL
 * MetaMapp: mapping and visualizing metabolomic data by integrating information from biochemical pathways and chemical and mass spectral similarity. Barupal DK, Haldiya PK, Wohlgemuth G, Kind T, Kothari SL, Pinkerton KE, Fiehn O.  BMC Bioinformatics. 2012 May 16;13:99. doi: 10.1186/1471-2105-13-99.
 
 ## Funding
-NIEHS ( U24ES035386 ) for the Exposome Correlation and Interpretation Database (ECID) [2023-2028] PIs Dinesh Barupal and Susan Teitelbaum
-Lab is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337)
+* NIEHS ( U24ES035386 ) for the Exposome Correlation and Interpretation Database (ECID) [2023-2028] PIs Dinesh Barupal and Susan Teitelbaum. 
+* Lab is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337)
 
 ## Contribution guidelines:
-Most of our software are written in the R programming language. For online tools, we are using the ReactJS framework. Submit your request to contribute to IDSL.ME codebase to dinesh.barupal@mssm.edu . Significant contributions will be credited with authorship in future manuscripts.  
-For US persons, [Mount Sinai Volunteer Research Program](https://www.mountsinai.org/locations/mount-sinai/about/volunteer/student-research) can be interesting. 
+* Most of our software are written in the R and Python programming languages. For online tools, we are using the ReactJS framework. Submit your request to contribute to IDSL.ME codebase to dinesh.barupal@mssm.edu . Significant contributions will be credited with authorship in future manuscripts.
+
+## Positions
+* We are always looking for bioinformatics programmers, post-doc fellows in metabolomics/exposomics/toxicology, data curators (omics, literature, biomonitoring), data science analysts. Reach out to dinesh.barupal@mssm.edu with your CV. 
 
 
 
