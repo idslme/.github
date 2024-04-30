@@ -22,6 +22,7 @@ More details about the group's research and resources can be found at this [IDSL
 * [MetaMapp](https://github.com/barupal/MetaMapp) : Metabolic network mapping using atomic mapping of reactions and chemical similarity
 
 ### Databases:
+* [ECID](https://ecidbase.org/) : Exposome Correlation and Interpretation Database (ECID) (NIEHS U24ES035386 Biomedical Knowledgebase)
 * [CCDB](https://ccdb.idsl.me/) : a database of inter-chemical correlations
 * [Blood Exposome DB](https://bloodexposome.org/) : A text mining driven catalogue of chemicals found in a blood sample
 * [Cancer Hazard Prioratization](https://cancer.idsl.me/) : To prioratize cancer hazards for IARC Monographs programme
