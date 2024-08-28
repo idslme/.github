@@ -43,8 +43,9 @@ More details about the group's research and resources can be found at this [IDSL
 * MetaMapp: mapping and visualizing metabolomic data by integrating information from biochemical pathways and chemical and mass spectral similarity. Barupal DK, Haldiya PK, Wohlgemuth G, Kind T, Kothari SL, Pinkerton KE, Fiehn O.  BMC Bioinformatics. 2012 May 16;13:99. doi: 10.1186/1471-2105-13-99.
 
 ## Funding
-* NIEHS ( U24ES035386 ) for the Exposome Correlation and Interpretation Database (ECID) [2023-2028] PIs Dinesh Barupal and Susan Teitelbaum. 
-* Lab is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337)
+* NIEHS ( U24ES035386 ) Exposome Correlation and Interpretation Database (ECID) [2023-2028] PIs Dinesh Barupal and Susan Teitelbaum.
+* NIEHS ( R01ES035478 ) Metal Mixtures, MicroRNAs and Metabolomics in Extracellular Vesicles, and Early-life Programming of Childhood Sleep Patterns: A Longitudinal Study [2024-2029] PIs Allison Kupsco and Dinesh Barupal
+* IDSL-ME is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337)
 
 ## Contribution guidelines:
 * Most of our software are written in the R and Python programming languages. For online tools, we are using the ReactJS framework. Submit your request to contribute to IDSL.ME codebase to dinesh.barupal@mssm.edu . Significant contributions will be credited with authorship in future manuscripts.
