@@ -45,7 +45,8 @@ More details about the group's research and resources can be found at this [IDSL
 ## Funding
 * NIEHS ( U24ES035386 ) Exposome Correlation and Interpretation Database (ECID) [2023-2028] PIs Dinesh Barupal and Susan Teitelbaum.
 * NIEHS ( R01ES035478 ) Metal Mixtures, MicroRNAs and Metabolomics in Extracellular Vesicles, and Early-life Programming of Childhood Sleep Patterns: A Longitudinal Study [2024-2029] PIs Allison Kupsco and Dinesh Barupal
-* IDSL-ME is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337)
+* NIEHS ( R24ES036917 ) GeoSpace - GeoSpatial Knowledgebase for Exposomics (ECID) [2025-2029] PIs Itai Kloog and Dinesh Barupal
+* IDSL-ME is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337, U01AG088562)
 
 ## Contribution guidelines:
 * Most of our software are written in the R and Python programming languages. For online tools, we are using the ReactJS framework. Submit your request to contribute to IDSL.ME codebase to dinesh.barupal@mssm.edu . Significant contributions will be credited with authorship in future manuscripts.
