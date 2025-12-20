@@ -10,8 +10,9 @@ More details about the group's research and resources can be found at this [IDSL
 
 ### Databases:
 * [ECID](https://ecidbase.org/) : Exposome Correlation and Interpretation Database (ECID) (NIEHS U24ES035386 Biomedical Knowledgebase)
-* [Blood Exposome DB](https://bloodexposome.org/) : A text mining driven catalogue of chemicals found in a blood sample
-
+* [Blood Exposome DB](https://bloodexposome.org/) : An curated database of chemicals found in a blood sample.
+* [GeoSpace](https://www.gsbase.org/) : An curated database of geospatial datasets and biological effects. (NIEHS R24ES036917 Biomedical Knowledgebase)
+  
 ### LC/GC-HRMS data processing : 
 * [IDSL.MXP](https://github.com/idslme/IDSL.MXP) : A light-weight parser for mzML, netCDF and mzXML files
 * [IDSL.IPA](https://github.com/idslme/IDSL.IPA) : To generate comprehensive data matrices from an untargeted LC/GC - HRMS dataset
