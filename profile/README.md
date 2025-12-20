@@ -8,26 +8,25 @@ More details about the group's research and resources can be found at this [IDSL
 
 ## Key resources: 
 
+### Databases:
+* [ECID](https://ecidbase.org/) : Exposome Correlation and Interpretation Database (ECID) (NIEHS U24ES035386 Biomedical Knowledgebase)
+* [Blood Exposome DB](https://bloodexposome.org/) : A text mining driven catalogue of chemicals found in a blood sample
+
 ### LC/GC-HRMS data processing : 
 * [IDSL.MXP](https://github.com/idslme/IDSL.MXP) : A light-weight parser for mzML, netCDF and mzXML files
 * [IDSL.IPA](https://github.com/idslme/IDSL.IPA) : To generate comprehensive data matrices from an untargeted LC/GC - HRMS dataset
 * [IDSL.UFA](https://github.com/idslme/IDSL.UFA) : To annotate MS1 level data will molecular formula using isotope profile similarity
-* [IDSL.CSA](https://github.com/idslme/IDSL.CSA) : To annotate peaks using a compositie spectra created using MS1 only data
-* [IDSL.FSA](https://github.com/idslme/IDSL.FSA) : To annotate peaks using fragmentation data generated using DIA and DDA methods
+* [IDSL.CSA](https://github.com/idslme/IDSL.CSA) : To annotate peaks using a compositie spectra created using MS1 only data, DIA and the DDA spectra
 * [IDSL_MINT](https://github.com/idslme/IDSL_MINT) : A python workflow for training transformer models to predict molecular fingerprints from a MS/MS spectra
+
+### Predictive Toxicology
+* [In-silico Transformation of Chemicals](https://github.com/idslme/in-silico-transformation) : Predicting in-silico products for chemicals and metabolites
+* [Predictive Exposome Toxicity](https://github.com/idslme/exposome-toxicity-prediction) : Predicting chemical toxicity using deep learning models
 
 ### Metabolic Bioinformatics: 
 * [IDSL.GOA](https://goa.idsl.site/) : query the Gene Ontology Database for a multi-omics data interpretation
 * [ChemRICH](https://github.com/idslme/ChemRICH) : Metabolite set analysis that is independent of a background database
 * [MetaMapp](https://github.com/barupal/MetaMapp) : Metabolic network mapping using atomic mapping of reactions and chemical similarity
-
-### Databases:
-* [ECID](https://ecidbase.org/) : Exposome Correlation and Interpretation Database (ECID) (NIEHS U24ES035386 Biomedical Knowledgebase)
-* [CCDB](https://ccdb.idsl.me/) : a database of inter-chemical correlations
-* [Blood Exposome DB](https://bloodexposome.org/) : A text mining driven catalogue of chemicals found in a blood sample
-* [Cancer Hazard Prioratization](https://cancer.idsl.me/) : To prioratize cancer hazards for IARC Monographs programme
-* [PubMed-FT](https://pubmed.idsl.site/) : NLP guided queries of PubMed abstracts
-* [PMC-FT](https://pmc.idsl.me/) : NLP guided queries of full text data in the PMC database
 
 ## Key Publications
 
@@ -48,11 +47,8 @@ More details about the group's research and resources can be found at this [IDSL
 * NIEHS ( R24ES036917 ) GeoSpace - GeoSpatial Knowledgebase for Exposomics (ECID) [2025-2029] PIs Itai Kloog and Dinesh Barupal
 * IDSL-ME is contributing to several other NIH-funded projects (P30ES023515, U2CES026561, U2CES026555, U2CES030859, R01ES033688, UL1TR004419, R35ES030435, R01ES032831, UH3OD023337, U01AG088562)
 
-## Contribution guidelines:
-* Most of our software are written in the R and Python programming languages. For online tools, we are using the ReactJS framework and OpenSearch Dashboard. Submit your request to contribute to IDSL.ME codebase to dinesh.barupal@mssm.edu . Significant contributions will be credited with authorship in future manuscripts.
-
 ## Positions
-* We are always looking for bioinformatics programmers, post-doc fellows in metabolomics/exposomics/toxicology, data curators (omics, literature, biomonitoring), data science analysts. Reach out to dinesh.barupal@mssm.edu with your CV. 
+* We are always looking for bioinformatics programmers, post-doc fellows in metabolomics/exposomics/toxicology, data curators (omics, literature, biomonitoring), data science analysts. Reach out to dinesh.barupal@mssm.edu with your CV, recent first author papers. 
 
 
 
